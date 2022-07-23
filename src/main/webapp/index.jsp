@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>UDAY!</title>
+<title>uday!</title>
 </head>
 <body>
 	<h1>HI THIS IS UDAY THANDU!</h1>
